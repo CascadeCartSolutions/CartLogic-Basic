@@ -1,1 +1,0 @@
-SystemID,StreetName,HouseNumber,UnitNumber,ServiceType,RFID,CartSize,CartType
