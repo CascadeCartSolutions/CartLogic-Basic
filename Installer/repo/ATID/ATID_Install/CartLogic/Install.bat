@@ -27,7 +27,7 @@ MOVE "\CartLogic\CartLogic Program Files\*.*" "\Flash Disk\Start\HardReset\CartL
 MOVE "\CartLogic\MobiClient\NET_XS_1000M.exe" "\Flash Disk\Start\HardReset\CartLogic\MobiClient"
 
 REM start "\Windows\wceload.exe" "\Flash Disk\Start\HardReset\CartLogic\Install SQL\sqlce.wce5.armv4i.CAB"
-
+REM start "\Windows\wceload.exe" "\Flash Disk\Start\HardReset\CartLogic\Install SQL\sqlce.dev.ENU.wce5.armv4i.CAB"
 
 :UPGRADE
 ECHO "upgrade"
